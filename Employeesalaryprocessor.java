@@ -32,7 +32,7 @@ class SalaryTask implements Callable<String> {
     }
 }
 
-public class EmployeeSalaryProcessor {
+public class EmployeeSalaryprocessor {
 
     public static void main(String[] args) {
 
